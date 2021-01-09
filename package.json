@@ -1,0 +1,27 @@
+{
+  "name": "@psibean/prisma-provider",
+  "version": "0.0.1",
+  "description": "A Prisma based provider for discord-akairo.",
+  "main": "./src/index.js",
+  "author": "Psi",
+  "license": "MIT",
+  "keywords": [
+    "discord",
+    "discord-js",
+    "discord.js",
+    "discord-akairo",
+    "prisma"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psibean/prisma-provider.git"
+  },
+  "bugs": {
+    "url": "https://github.com/psibean/prisma-provider/issues"
+  },
+  "homepage": "https://github.com/psibean/prisma-provider#readme"
+}
