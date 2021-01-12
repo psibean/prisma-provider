@@ -95,7 +95,7 @@ class PrismaProvider extends Provider {
             },
             create: {
               [this.idColumn]: id,
-              [key]: value
+              ...data
             }
         }).then(entity => {
             return entity[key] === value;
