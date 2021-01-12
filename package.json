@@ -1,6 +1,6 @@
 {
   "name": "@psibean/prisma-provider",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Prisma based provider for discord-akairo.",
   "main": "./src/index.js",
   "author": "Psi",
